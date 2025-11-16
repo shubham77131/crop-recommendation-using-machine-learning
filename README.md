@@ -7,6 +7,6 @@ This project implements machine learning models to recommend suitable crops to f
 The data used for training the models was sourced from a publicly available dataset on Kaggle: Crop Recommendation Dataset.
 
 # Data sorces
-the [rimary sorce of data for this project is from kaggle.
+the primary sorce of data for this project is from kaggle.
 link -
 https://www.kaggle.com/datasets/varshitanalluri/crop-recommendation-dataset
